@@ -136,7 +136,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitURL",
                  "type":"string",
                  "value":"..\/main.json"
                 }],
@@ -184,6 +184,12 @@
          "imagewidth":544,
          "margin":0,
          "name":"straze",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"deviantart by schwarzenacht"
+                }],
          "spacing":0,
          "tilecount":187,
          "tileheight":32,
@@ -197,6 +203,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"deviantart by painhurts"
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -256,6 +268,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"stra\u00dfe",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"deviantart by schwarzenacht"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -275,17 +293,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":2,
          "firstgid":1522,
-         "image":"..\/src\/assets\/worldExit.png",
-         "imageheight":64,
-         "imagewidth":64,
-         "margin":0,
-         "name":"exit",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"..\/src\/exit.tsx"
         }],
  "tilewidth":32,
  "type":"map",
