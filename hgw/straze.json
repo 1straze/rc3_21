@@ -394,7 +394,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"main.json"
                 }],
@@ -412,7 +412,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"world:\/\/lobby\/chaoszone.json#start_mv"
                 }],
