@@ -227,7 +227,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"deviantart @painhurt"
+                 "value":"deviantart by painhurt"
                 }],
          "spacing":0,
          "tilecount":1064,
@@ -246,7 +246,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"deviantart @painthurt"
+                 "value":"deviantart by painthurt"
                 }],
          "spacing":0,
          "tilecount":1064,
