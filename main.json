@@ -312,7 +312,7 @@
         }, 
         {
          "firstgid":17470,
-         "source":"src\/exit.tsx"
+         "source":"exit.tsx"
         }],
  "tilewidth":32,
  "type":"map",
