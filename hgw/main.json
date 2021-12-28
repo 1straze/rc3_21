@@ -287,14 +287,29 @@
          "imagewidth":224,
          "margin":0,
          "name":"banner",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":14,
          "tileheight":32,
          "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":1522,
-         "source":"..\/src\/exit.tsx"
+         "image":"..\/src\/assets\/worldExit.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"exit",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
