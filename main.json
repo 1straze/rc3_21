@@ -309,7 +309,11 @@
          "tilecount":136,
          "tileheight":32,
          "tilewidth":32
-        }], 
+        }, 
+        {
+         "firstgid":17470,
+         "source":"src\/exit.tsx"
+        }],
  "tilewidth":32,
  "type":"map",
  "version":1.5,
