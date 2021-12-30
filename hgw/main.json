@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"straze.json"
+                 "value":".\/straze.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,7 +72,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/1straze.github.io\/straze\/welcome.html"
+                 "value":"https:\/\/straze.de"
                 }],
          "type":"tilelayer",
          "visible":true,
